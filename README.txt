@@ -3,3 +3,7 @@ https://www.youtube.com/user/sentdex, die een serie video's heeft gemaakt waarin
 WikiQA (een benchmark dataset) https://www.microsoft.com/en-us/download/details.aspx?id=52419
 
 een framework om NL te converteren naar SPARQL queries: https://github.com/machinalis/quepy
+
+Automatic response generator https://research.googleblog.com/2015/11/computer-respond-to-this-email.html
+
+Part of speech: tensorflow syntaxnet? ook voor nederlands (text parser)
