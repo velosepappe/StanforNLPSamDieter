@@ -3,6 +3,9 @@ https://www.youtube.com/user/sentdex, die een serie video's heeft gemaakt waarin
 
 Automatic response generator https://research.googleblog.com/2015/11/computer-respond-to-this-email.html
 
+Natural language processing with python (NLTK)
+http://www.nltk.org/book/
+
 SOFTWARE
 een framework om NL te converteren naar SPARQL queries: https://github.com/machinalis/quepy
 
