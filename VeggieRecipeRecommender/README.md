@@ -33,7 +33,7 @@
 # Tijdschriften / Merken / Andere
 
 - <a href="https://www.libelle-lekker.be/zoeken/recepten"> Libelle: #11,395</a> 
-- <a href="https://www.solo.be/nl/zoeken/"> Solo: #7,529 </a>
+- <a href="https://www.solo.be/nl/zoeken/"> Solo: #16,366 </a>
 - <a href="https://njam.tv/recepten"> Njam: #? </a>
 - <a href="https://15gram.be/recepten"> 15gram: #2,759 </a>
 
