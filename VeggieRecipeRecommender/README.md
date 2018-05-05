@@ -34,7 +34,7 @@
 
 - <a href="https://www.libelle-lekker.be/zoeken/recepten"> Libelle: #11,395</a> 
 - <a href="https://www.solo.be/nl/zoeken/"> Solo: #16,366 </a>
-- <a href="https://njam.tv/recepten"> Njam: #? </a>
+- <a href="https://njam.tv/recepten"> Njam: #3,800 </a>
 - <a href="https://15gram.be/recepten"> 15gram: #2,759 </a>
 
 - <a href="https://www.hellofresh.com/recipes/?redirectedFromAccountArea=true"> Hellofresh: #2,500 </a>
