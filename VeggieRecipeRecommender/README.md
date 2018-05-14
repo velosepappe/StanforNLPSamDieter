@@ -56,7 +56,6 @@
 # Artikels over gelijkaardige methodes
 
 - <a href="https://jaan.io/food2vec-augmented-cooking-machine-intelligence/"> Food2Vec Blogpost </a>
-- <a href="- https://tech.buzzfeed.com/lettuce-evaluate-some-recipe-word-embeddings-64f76e61ac0c"> Tasty App </a>
+- <a href="https://tech.buzzfeed.com/lettuce-evaluate-some-recipe-word-embeddings-64f76e61ac0c"> Tasty App </a>
 
-
-
+- <a href="https://techcrunch.com/2018/05/11/lighttag/"> Commerciele software data annoteren/suggereert annotatie via ML  </a>
